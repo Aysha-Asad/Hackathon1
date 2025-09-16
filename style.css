@@ -1,0 +1,93 @@
+button{
+
+    border: 2px solid #4CAF50; /* Green */
+    padding: 3px 30px 3px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 2px;
+    cursor: pointer;
+    border-radius: 80px;
+}
+.section {
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.purple {
+  background-color: #e0d4f7;
+  color: #4b0082;
+}
+
+.green {
+  background-color: #d4f7d4;
+  color: #006400;
+}
+
+.phone-illustration {
+  position: relative;
+}
+
+.character-text {
+  margin-top: 10px;
+  font-weight: bold;
+  color: #333;
+}
+feature-icon {
+      font-size: 2rem;
+      color: #28a745;
+    }
+    .hero-section {
+      background-color: #f8f9fa;
+      padding: 60px 0;
+    }
+    .btn-green {
+      background-color: #28a745;
+      color: white;
+    }
+    .btn-green:hover {
+      background-color: #218838;
+    }
+     body {
+      background-color: #f8f9fa;
+    }
+    .feature-box {
+      background: #fff;
+      border-radius: 12px;
+      padding: 20px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+      transition: all 0.3s;
+    }
+    .feature-box:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 6px 18px rgba(0,0,0,0.15);
+    }
+    .icon {
+      font-size: 2rem;
+      color: #28a745;
+    }
+    .hero-img {
+      max-width:100%;
+    }
+.box1{
+    position: relative;
+    bottom: 50px;
+    left: 40px;
+} 
+.box2{
+    position: relative;
+    top: 50px;
+    left: 40px;
+}
+.box3{
+    position: relative;
+    bottom: 50px;
+    right: 40px;
+}
+.box4{
+    position: relative;
+    top: 50px;
+    right: 40px;
+}
